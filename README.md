@@ -3,8 +3,7 @@ Aaron Sutton
 
 # Something
 
-
-something.ipynb is an age predicting program which tells any user either what thier age will be after some number of years or what thier age was some number of years ago.
+`something.ipynb` is an age predicting program which tells any user either what thier age will be after some number of years or what thier age was some number of years ago.
 It uses a simple algorithm of adding the number of years to the current age of the user. 
 
 ## Usage
@@ -19,6 +18,12 @@ Entering a positive number of years will return the user's age after (input) yea
 ![example](somethingnegative.png)
 
 ## Install
+
+- Download and install `JuypterLab` on your computer
+- Launch the notebook
+- Run the Python program
+- Enter your age
+- **Proft!!!**
 
 # Lab 5
 Our program takes two inputs, name and age, and prints a message 
